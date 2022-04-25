@@ -1,3 +1,6 @@
+# This code is based on this article.
+# https://www.delftstack.com/ja/howto/matplotlib/set-color-for-scatterplot-in-matplotlib/
+
 import matplotlib.pyplot as plt
 
 xdata = [1,2,1,2,3,4,2,5]
