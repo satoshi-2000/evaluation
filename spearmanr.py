@@ -1,4 +1,4 @@
-# This code is besed on this article.
+# This code is based on this article.
 # https://qiita.com/dacciinfo/items/88debe69f9f4e927aafc
 
 from scipy.stats import spearmanr
